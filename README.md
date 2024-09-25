@@ -29,12 +29,6 @@ This is a **simple front-end website** designed to promote countryside tourism. 
 ### 1️⃣ Home Page
 ![Home Page](./screenshots/homepage.png)
 
-### 2️⃣ Region Section
-![Region Section](./screenshots/region.png)
-
-### 3️⃣ About Page
-![About Page](./screenshots/aboutpage.png)
-
 ---
 
 ## 🚀 Usage
